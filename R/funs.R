@@ -29,3 +29,12 @@ multiply <- function(x, y) {
   x * y
 }
 
+#' divide
+#'
+#' @param x numeric
+#' @param y numeric
+#' @keywords internal
+divide <- function(x, y) {
+  x / y
+}
+
