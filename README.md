@@ -3,7 +3,7 @@
 
 # devtag.example
 
-Example package for <https::github.com/moodymudskipper/devtag>
+Example package for <https::/github.com/moodymudskipper/devtag>
 
 ## Installation
 
